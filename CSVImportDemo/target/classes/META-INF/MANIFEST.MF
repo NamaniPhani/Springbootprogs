@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: pn20154
+Build-Jdk: 14.0.1
+Implementation-Title: CSVImportDemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ojas.pers
+Implementation-URL: https://spring.io/projects/spring-boot/CSVImportDemo
+Created-By: Maven Integration for Eclipse
+
